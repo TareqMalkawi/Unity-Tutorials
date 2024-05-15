@@ -1,1 +1,1 @@
-Here, you can access the source code for all the tutorials available on Youtube.
+Here, you can access the project files for all the tutorials available on Youtube.
